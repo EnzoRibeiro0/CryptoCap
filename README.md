@@ -37,11 +37,14 @@
 ## 📂 Acesso ao Projeto
 
 ### Clone o repositório:
-
+```text 
 git clone https://github.com/EnzoRibeiro0/CryptoCap.git
+```
 
 ### Acesse a pasta do projeto:
+```text 
 cd CryptoCap
+```
 
 ---
 
@@ -54,17 +57,21 @@ cd CryptoCap
  - Node.js (recomendado: versão 18 ou superior)
 
  - Expo CLI instalado globalmente:
- - npm install -g expo-cli
+```text
+npm install -g expo-cli
+```
 
 ### 📦 2. Instalar dependências
  - Após clonar o projeto, entre na pasta e instale as dependências:
-
- - npm install
+```text 
+npm install
+```
 
 ### ▶️ 3. Executar o projeto
  - Com tudo instalado, execute o projeto com:
-
- - npx expo start
+```text 
+npx expo start
+```
 
  - Esse comando abrirá uma aba no terminal com um QR Code.
 
